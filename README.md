@@ -1,8 +1,20 @@
 # Pytorch
 Pytorch Tutorial
-PyTorch is an open source machine learning library for Python and is completely based on Torch. 
+PyTorch is an open source Machine Learning Library for Python programming language and It is introduced by Facebook.
+which is used for applications such as Natural Language Processing.
+It is a Deep Learning framework introduced by Facebook.
+PyTorch was developed to provide high flexibility and speed during implementing and building the Deep Learning Neural Network. 
 
 
+
+
+The major features of PyTorch are mentioned below −
+
+It's quite simple to install, run, and understand.
+
+Python usage- Pytorch is completely pythonic (using widely adopted python idioms rather than writing Java and C++ code) so that it can quickly build a Neural Network Model successfully.
+
+Computational graphs − PyTorch provides an excellent platform which offers dynamic computational graphs. Thus a user can change them during runtime. This is highly useful when a developer has no idea of how much memory is required for creating a neural network model.
 
 
 
